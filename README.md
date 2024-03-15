@@ -7,3 +7,4 @@ First use the python file to convert your image into a c array。 The instructio
 3. run the python code, you should get a text file on the left.
 4. Transfer that c array into your c program.
 5. Run the .c file in cpulator
+6. You should get something that looks like resultingPickaPic.JPG
